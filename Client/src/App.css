@@ -1,0 +1,8 @@
+body {
+  font-family: "PT Sans", sans-serif;
+}
+
+::-webkit-scrollbar {
+  height: 0px;
+  width: 0px;
+}
